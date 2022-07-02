@@ -1,0 +1,51 @@
+header{
+    background-color: aqua;
+    font-size: xx-large;
+}
+
+.home{
+    background: lightsalmon;
+    font-size: medium;
+    font-family: Lato;
+}
+.about{
+  
+    background: lightsalmon;
+    font-size: medium;
+    font-family: Lato;
+}
+
+.work{
+    background: lightsalmon;
+    font-size: medium;
+    font-family: Lato;
+}
+
+.resume{
+    background: lightsalmon;
+    font-size: medium;
+    font-family: Lato;
+}
+
+.contact{
+    background: lightsalmon;
+    font-size: medium;
+    font-family: Lato;
+}
+
+.contact me{
+    background: lightsalmon;
+    font-size: medium;
+    font-family: Lato;
+}
+
+.fieldset{
+    background-image: url(../images/background.webp)
+}
+
+.field{
+    background-image: url(../images/fond-texture.webp);
+}
+.id{
+    background-image: url(../images/formulaire-background.webp);
+}
